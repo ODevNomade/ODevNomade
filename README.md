@@ -8,7 +8,8 @@
 
 ![Samuel Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=ODevNomade&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ODevNomade&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ODevNomade&layout=compact&theme=blue-green)
+
 
 ### Tecnologias que eu uso no meu dia
 
